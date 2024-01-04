@@ -40,3 +40,5 @@ JavaScript
 ```
 await aituAminaTokenContract.transferTokens(recipientAddress, amount);>
 ```
+## License
+This project is licensed under the License MIT - see the [LICENSE](https://github.com/Amina899/as1OpenZeppelin/blob/main/LICENSE) file for details.
